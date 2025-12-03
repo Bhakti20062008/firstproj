@@ -1,10 +1,6 @@
 BHAKTI PATEL
 ## 👋 About Me
 I am an **IT Engineer** with experience in designing, implementing, and supporting secure, scalable, and reliable IT infrastructures. I specialize in systems administration, cloud technologies, automation, and troubleshooting complex technical issues across diverse environments.
-## 🔧 Core Skills
-* **Systems Administration:** Windows Server, Linux (Ubuntu, CentOS, RHEL)
-* **Networking:** TCP/IP, DNS, DHCP, VPN, Firewalls, VLANs
-* **Cloud Platforms:** AWS, Azure, Google Cloud
 ## 📂 Projects
 ### **1. Infrastructure Automation with PowerShell**
 Automated user provisioning, AD management, and backup routines to reduce manual workload by 40%.
