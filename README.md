@@ -5,10 +5,6 @@ I am an **IT Engineer** with experience in designing, implementing, and supporti
 * **Systems Administration:** Windows Server, Linux (Ubuntu, CentOS, RHEL)
 * **Networking:** TCP/IP, DNS, DHCP, VPN, Firewalls, VLANs
 * **Cloud Platforms:** AWS, Azure, Google Cloud
-## 🏗️ What I Do
-* Design and maintain enterprise IT infrastructure
-* Deploy and manage cloud resources
-* Automate daily operational tasks
 ## 📂 Projects
 ### **1. Infrastructure Automation with PowerShell**
 Automated user provisioning, AD management, and backup routines to reduce manual workload by 40%.
