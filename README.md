@@ -25,18 +25,6 @@ I am an **IT Engineer** with experience in designing, implementing, and supporti
 * Support users and ensure minimal downtime
 * Document processes and create technical guidelines
 
-## 🛠️ Tools & Technologies
-
-| Category   | Tools                      |
-| ---------- | -------------------------- |
-| OS         | Windows Server, Linux      |
-| Cloud      | AWS, Azure                 |
-| Infra      | VMware, Docker, Kubernetes |
-| Automation | PowerShell, Bash           |
-| Networking | Cisco, Ubiquiti            |
-| Monitoring | Zabbix, Grafana            |
-| CI/CD      | GitHub Actions, Jenkins    |
-
 ## 📂 Projects
 
 ### **1. Infrastructure Automation with PowerShell**
@@ -50,17 +38,6 @@ Migrated on-prem workloads to AWS EC2, RDS, and S3, improving system availabilit
 ### **3. Network Segmentation Project**
 
 Implemented VLANs and firewall rules to enhance security and reduce broadcast issues.
-
-## 📘 Documentation & SOPs
-
-This repository includes documents such as:
-
-* Standard Operating Procedures (SOPs)
-* Environment architecture diagrams
-* Troubleshooting guides
-* Deployment notes
-* Security configurations and best practices
-
 ## 🤝 Contact
 
 * **Email:** [bhakti123@gmail.com]
